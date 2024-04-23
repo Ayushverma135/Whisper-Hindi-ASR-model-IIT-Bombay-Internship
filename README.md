@@ -1,4 +1,4 @@
-# Whisper-Hindi-ASR-model-IIT-Bombay-Intership
+# Whisper-Hindi-ASR-model-IIT-Bombay-Internship
 
 The Whisper Hindi ASR (Automatic Speech Recognition) model utilizes the KathBath dataset, a comprehensive collection of speech samples in Hindi. Trained on this dataset, Whisper employs advanced deep learning techniques to accurately transcribe spoken Hindi into text. Its architecture harnesses the power of neural networks to recognize and interpret the nuances of the Hindi language, including regional accents and dialects. Whisper stands out for its efficiency and accuracy, offering a reliable solution for converting spoken Hindi into written text across various applications, from transcription services to voice-enabled interfaces.
 
